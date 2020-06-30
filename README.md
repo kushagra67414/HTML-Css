@@ -19,3 +19,11 @@
 
 
 `_In this project all possible syntax and tags are used using HTML and CSS which are neccessary to work on a website._`
+
+
+## DAY : Tuesday
+
+>Progress tag in HTML
+  * The <progress> tag represents the completion progress of a task.
+  * ATTRIBUTES ARE : Value and Max
+>Use of LABEL tag with Progress.
